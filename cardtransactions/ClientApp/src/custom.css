@@ -1,0 +1,36 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.sale-cell {
+    vertical-align: middle;
+}
+
+.sale-details {
+    height: 66px;
+    width: 300px;
+    max-width: 300px;
+}
+
+.row {
+    padding-bottom: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.response-label {
+    white-space: pre-wrap;
+}
